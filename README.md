@@ -23,7 +23,7 @@ I like to play Minecraft, GTA V, and a few other games.
 I've been programming since 2017.
 
 
-<img src="https://discord.c99.nl/widget/theme-2/599914856296218624.png">
+<img src="https://discord.c99.nl/widget/theme-1/599914856296218624.png">
 
 
 ## 🚀 Deployment <a name = "deployment"></a>
