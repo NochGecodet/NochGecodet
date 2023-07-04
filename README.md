@@ -10,6 +10,12 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgur.com/bCBt6ga.jpeg"  />
+
+###
+
+<br clear="both">
+
 <div align="left">
   <a href="https://www.youtube.com/channel/UC-gQY0DGhi28kaFswRbrxRw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -23,6 +29,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,13 +47,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgur.com/bCBt6ga.jpeg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/NochGecodet/NochGecodet/output/snake.svg" alt="Snake animation" />
 
 ###
