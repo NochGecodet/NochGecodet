@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am the developer of the OPSchlucht.net Minecraft server.
+Nothing.
 
 
 ## 🌐 Socials:
